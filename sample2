@@ -1,0 +1,7 @@
+get_value ()
+{
+  echo Hey this worked
+}
+
+echo hello world
+get_value
